@@ -1,2 +1,2 @@
 # gittest
-#Spring mvc project
+Spring mvc project
